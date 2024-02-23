@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H86TyzDH2bRpY887hEXCR2p5mZf+s7nAG3Y63HxGDHJA0Y8tePllLJg4KhYPSs/fAO95lQxUjiZKcYIz5fd1FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maximilian.persson3\\OneDrive - Academedia\\Documents\\Programmering\\Sokoban\\Sokoban\\Sokoban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maximilian.persson3\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\maximilian.persson3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
